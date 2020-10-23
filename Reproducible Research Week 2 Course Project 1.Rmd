@@ -203,6 +203,5 @@ hexbinplot(data=Q8.1,Steps~interval|WDWE, aspect = 1, bins=50)
 dev.off()
 ```
 
-![Caption for the picture.]("C:/Users/Cliente/OneDrive/Documentos/Coursera/Reproducible Research/plot8b.png")
 
 
